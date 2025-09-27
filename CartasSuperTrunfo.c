@@ -8,12 +8,23 @@ int main() {
   printf("Desafio Super Trunfo - Cartas\n");
   
   // Área para definição das variáveis para armazenar as propriedades das cidades
-char Estado = 'A';
-char Código[10] = "A01";
-char Cidade[30] = "Campos dos Goytacazes";
-int População = 519011;
-float Área = 4032.0;
-float PIB = 37.18;
+char Estado1 = 'A';
+char Código1[10] = "A01";
+char Cidade1[30] = "Campos dos Goytacazes";
+int População1 = 519011;
+float Área1 = 4032.0;
+float PIB1 = 37.18;
+int Pontos_turísticos1 = 15;
+
+char Estado2 = 'B';
+char Código2[10] = "B02";
+char Cidade2[30] = "Osasco";
+int População2 = 756952;
+float Área2 = 693.4;
+float PIB2 = 86.1;
+int Pontos_turísticos2 = 20;
+
+
 
 
   // Área para entrada de dados
