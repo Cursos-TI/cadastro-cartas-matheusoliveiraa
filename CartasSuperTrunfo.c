@@ -35,8 +35,8 @@ printf ("Código: %s\n", Código1);
 printf ("Nome da Cidade: %s\n", Cidade1);
 printf ("População: %d\n", População1);
 printf ("Área: %.1f km²\n", Área1);
-printf ("PIB: %.2f bilhões\n", PIB1);
-printf ("Número dePontos Turísticos: %d\n", Pontos_turísticos1);
+printf ("PIB: %.2f bilhões de reais\n", PIB1);
+printf ("Número de Pontos Turísticos: %d\n", Pontos_turísticos1);
 
 printf ("Carta 2:\n");
 printf ("Estado: %c\n", Estado2);
@@ -44,7 +44,7 @@ printf ("Código: %s\n", Código2);
 printf ("Nome da Cidade: %s\n", Cidade2);
 printf ("População: %d\n", População2);
 printf ("Área: %.1f km²\n", Área2);
-printf ("PIB: %.1f bilhões\n", PIB2);
+printf ("PIB: %.1f bilhões de reais\n", PIB2);
 printf ("Número de Pontos Turísticos: %d\n", Pontos_turísticos2);
 
   // Área para exibição dos dados da cidade
