@@ -8,6 +8,13 @@ int main() {
   printf("Desafio Super Trunfo - Cartas\n");
   
   // Área para definição das variáveis para armazenar as propriedades das cidades
+char Estado = 'A';
+char Código[10] = "A01";
+char Cidade[30] = "Campos dos Goytacazes";
+int População = 519011;
+float Área = 4032.0;
+float PIB = 37.18;
+
 
   // Área para entrada de dados
 
