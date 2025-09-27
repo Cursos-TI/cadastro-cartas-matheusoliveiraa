@@ -15,7 +15,6 @@ int População1 = 519011;
 float Área1 = 4032.0;
 float PIB1 = 37.18;
 int Pontos_turísticos1 = 15;
-
 char Estado2 = 'B';
 char Código2[10] = "B02";
 char Cidade2[30] = "Osasco";
@@ -46,6 +45,7 @@ printf ("População: %d\n", População2);
 printf ("Área: %.1f km²\n", Área2);
 printf ("PIB: %.1f bilhões de reais\n", PIB2);
 printf ("Número de Pontos Turísticos: %d\n", Pontos_turísticos2);
+
 
   // Área para exibição dos dados da cidade
 
